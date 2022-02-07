@@ -1,0 +1,243 @@
+.bat {
+ margin-left: 2px;
+ margin-right: 20px;
+ position: fixed;
+ background: white;
+ z-index: 2;
+ }
+.ta{
+    text-align: center;
+    }
+.pa{
+    margin-top: 52px;
+    margin-bottom: 1rem;
+    font-size:45px;
+    color: #17345e ;
+    text-align: center;
+    font-weight: 700;
+    font-size: 66px;
+    }
+.po{
+    font-size: 46px;
+    text-align: center;
+    margin-top: -33px;
+    color:  #17345e;
+}
+.text_bottom_line{
+    background-color: #ffc3a9;
+}
+.im{
+    height: 102px;
+}
+.un{
+ color: peachpuff;
+}
+.li{
+    border: solid 2px #f37c21;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 500;
+    color: #f37c21;
+}
+.db{
+    background-image:url(../assets/imgs/bg-img.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color:ghostwhite;
+    box-shadow: 0 10px 34px 0 rgb(0 0 0 / 22%);
+    margin-top: -186px;
+    margin-bottom: 173px;
+    width: 1199px;
+    height: 496px;
+}
+.bg-img{
+    background-color: #17345e;
+}
+.form-p{
+    background:ghostwhite ;
+}
+.shake{
+    background: ghostwhite;
+    width: 526px;
+    height: 511px;
+    margin-top: 200px;
+    margin-left: 287px;
+    box-shadow: 0 10px 34px 0 rgb(0 0 0 / 22%);
+    padding: 20px 20px 20px 20px;
+}
+.registration-form{
+    width: 383px;
+    background: #fff;
+    height: 300px;
+    margin-top: 191px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 27px;
+}
+.hi{
+    font-size: 1.75rem;
+    margin-left: 20px;
+    text-align: center;
+    color: rgb(255, 136, 0);
+}
+.vi{
+    color: white;
+    background-color: rgb(255, 136, 0);
+    width: 100px;
+    height: 26px;
+    margin-left: 128px;
+}
+.bi{
+    margin-top: -153px;
+    margin-bottom: 231px;
+}
+.pi{
+    margin-top: 52px;
+    margin-bottom: 1rem;
+    font-size:39px;
+    color: #17345e;
+    text-align: center;
+    font-weight: 500;
+       }
+.ben{
+    font-size: 35px;
+    text-align: center;
+    color: #f37c21;
+    font-weight: 700;
+    }
+.teg{
+    border-style: none;
+    height: 110px;
+    margin-left: 814px;
+}
+.kk{
+    color: #17345e;
+    font-size: 79px;
+    margin-left: 20px;
+    font-weight: 600;
+}
+.dop{
+    font-size: 39px;
+    color: #17345e;
+    margin-top: -41px;
+    margin-left: 20px;
+    font-weight: 600;
+}
+.det{
+    font-size: 23px;
+    color: grey;
+    margin-left: 20px;
+}
+.bt{
+    height: 886px;
+    width: 883px;
+    margin-top: -47px;
+}
+.pigi{
+    background-color: #f37c21;
+    padding-top: 40px;
+    padding-bottom: 60px;
+    margin-top: 100px;
+}
+.dimi{
+    font-size: 80px;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+}
+.lab{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin-top: -38px;
+}
+.ted{
+    font-size: 23px;
+    color: grey;
+    margin-left: 20px;
+    text-align: center;
+}
+.were-here-help-box {
+    background: #fff url(../images/orange-on-white.png) no-repeat;
+    background-size: 100% 100%;
+    padding: 20px;
+    text-align: center;
+    border: solid 1px #f37c21;
+}
+.tap{
+    font-size: 30px;
+    margin-top: -72px;
+    margin-bottom: 2rem;
+    background-color: ghostwhite;
+    padding-bottom: 80px;
+    box-shadow: 0 10px 34px 0 rgb(0 0 0 / 22%);
+}
+.lt{
+    width: 368px;
+    height: 600px;
+    margin: 0 276px 0 0;
+    padding: 0 0 290px 8px;
+    object-fit: contain;
+    background-color: #f37c21;
+    position: relative;
+    margin-left: 318px;
+  }
+  .ll{
+    vertical-align: middle;
+    border-style: none;
+    position: absolute;
+    z-index: 1;
+    margin-left: 318px;
+  }
+  .kp{
+    color: #17345e;
+    font-size: 79px;
+    margin-left: 20px;
+    font-weight: 600;
+    margin-top: 177px;
+  }
+  .tep{
+    margin-top: 30px;
+    margin-bottom: 1rem;
+    font-size: 33px;
+    width: 669px;
+  }
+  .tk{
+      font-size: 35px;
+  }
+  .bec{
+    font-size: 35px;
+    font-weight: normal;
+    color: #f37c21;
+  }
+  .container-brand{
+    background: #3d5567;
+    padding: 70px 0;
+  }
+  .brand-logo-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .brand-logo1 {
+    margin: 0 20px;
+  }
+  .lib {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin-top: -14px;
+}
+.tg{
+    margin-top: 200px;
+}
+.sub-button{
+    width: 135px;
+    margin-left: 196px;
+    margin-top: 42px;
+    background-color: #f37c21;
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    height: 45px;
+}
